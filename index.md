@@ -1,8 +1,11 @@
 ---
-title: "Je ne sais pas"
+title: "Mon parcours professionelle"
 order: 0
 in_menu: true
 ---
-Parfois, le "je ne sais pas" est le reflet de la diversité des possibilités qui s'offrent à nous. C'est reconnaître l'ampleur de l'univers des choix, et par conséquent, la difficulté de prendre une décision. C'est un territoire entre l'ignorance et la découverte, entre la perplexité et la clarté. 
+Bonjour je vous présente mon site pour découvrir mon parcours professionelle ,mes ambition,et mes projets.
 
-![Texte décrivant l'image]({% link images/des_image_d_une_panne_informatique_li__au_reseau_internet__Cartoon_S1342470_St50_G7.5.jpeg %}) 
+![Texte décrivant l'image]({% link images/OIG (4).jpg %})
+
+Je vous laisse découvrir mon linkedin en lien ci-dessous
+https://www.linkedin.com/in/david-dell-aquila-/ 
