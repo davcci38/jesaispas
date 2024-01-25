@@ -5,9 +5,11 @@ p {
   color: red;
 }
 h1 {
- color: black;
+ color: white;
 
 }
 body { 
  font-family :doctor glitch,fantasy;
 }
+body {
+background color black
