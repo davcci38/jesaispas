@@ -4,4 +4,6 @@
 p {
   color: red;
 }
-{.titre} color:red;
+.titre {
+ color:red; 
+}
