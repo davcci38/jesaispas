@@ -2,7 +2,7 @@
     --couleur-white : #07357d;
 }
 p {
-  color: linear-gradient(blue, indigo, violet);
+  background: linear-gradient(blue, indigo, violet);
 }
 h1 {
  color: black;
