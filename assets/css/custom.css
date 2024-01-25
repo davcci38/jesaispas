@@ -2,7 +2,7 @@
     --couleur-primaire : #07357d;
 }
 p {
-  background: linear-gradient(blue, indigo, violet);
+  background: linear-gradient(blue, indigo, violet) font-size: 60;
 }
 h1 {
  color: blue;
@@ -13,6 +13,6 @@ body {
 body {
 background color: black;
 }
-h2 {
+h1 {
  font-weight: 100;
 }
