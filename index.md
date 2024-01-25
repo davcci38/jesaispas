@@ -8,4 +8,4 @@ Bonjour je vous présente mon site pour découvrir mon parcours professionelle ,
 ![Texte décrivant l'image]({% link images/OIG (4).jpg %})
 
 Je vous laisse découvrir mon linkedin en lien ci-dessous
-https://www.linkedin.com/in/david-dell-aquila-/ 
+[Linkedin] (https://www.linkedin.com/in/david-dell-aquila-/) 
