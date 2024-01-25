@@ -3,6 +3,4 @@ title: "je sais pas"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**. 
+Parfois, le "je ne sais pas" est le reflet de la diversité des possibilités qui s'offrent à nous. C'est reconnaître l'ampleur de l'univers des choix, et par conséquent, la difficulté de prendre une décision. C'est un territoire entre l'ignorance et la découverte, entre la perplexité et la clarté. 
