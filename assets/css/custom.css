@@ -2,17 +2,15 @@
     --couleur-primaire : #07357d;
 }
 p {
-  background: linear-gradient(blue, indigo, violet) font-size: 60;
+  background: linear-gradient(blue, indigo, violet);
 }
 h1 {
  color: blue;
+ font-size: 100;
 }
 body { 
  font-family :doctor glitch,fantasy;
 }
 body {
 background color: black;
-}
-h1 {
- font-weight: 100;
 }
