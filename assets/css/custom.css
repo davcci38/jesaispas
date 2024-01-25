@@ -2,16 +2,7 @@
     --couleur-black : #07357d;
 }
 p {
-  background: -moz-linear-gradient(
-    left,
-    red,
-    orange,
-    yellow,
-    green,
-    blue,
-    indigo,
-    violet
-  );;
+  background: linear-gradient(blue, indigo, violet);
 }
 h1 {
  color: white;
