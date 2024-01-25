@@ -4,4 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: mimoza
-baseurl: /jesaispas
+baseurl: /mon-cv-en-ligne
