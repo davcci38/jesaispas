@@ -1,9 +1,11 @@
 ---
-title: "Mon parcours professionelle"
+title: "Mon parcours professionnel"
 order: 1
 in_menu: true
 ---
-Bonjour je vous présente mon site pour découvrir mon parcours professionelle ,mes ambition,et mes projets.
+#Mon parcours professionnel 
+
+Bonjour je vous présente mon site pour découvrir mon parcours professionnel ,mes ambition,et mes projets.
 
 ![Texte décrivant l'image]({% link images/OIG (4).jpg %})
 
