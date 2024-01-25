@@ -1,5 +1,5 @@
 ---
-title: "**Mon parcours professionelle**"
+title: "Mon parcours professionelle"
 order: 0
 in_menu: true
 ---
