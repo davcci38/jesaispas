@@ -1,5 +1,5 @@
 ---
-title: "Mes projets"
+title: "**Mes projets**"
 order: 1
 in_menu: true
 ---
