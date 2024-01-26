@@ -7,4 +7,4 @@ J'ai pour projet de me former dans le métier de la cybersécurité je suis actu
 Mon ambition serait de travailler dans la cybersécurité a la fin de mes formations.
 
 
-<img src="images/OIG2.jpg" width="120%"> 
+<img src="images/OIG2.jpg" width="100%"> 
