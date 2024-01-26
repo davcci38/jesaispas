@@ -7,7 +7,7 @@ in_menu: true
 
 Bonjour je vous présente mon site pour découvrir mon parcours professionnel ,mes ambition,et mes projets.
 
-<img src="images/OIG4.1cdv8b8.jpg " width="120%">
+<img src="images/OIG4.1cdv8b8.jpg " width="100%">
 
 
 Je vous laisse découvrir mon linkedin en lien ci-dessous
