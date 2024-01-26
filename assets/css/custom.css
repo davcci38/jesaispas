@@ -11,12 +11,13 @@ color: white;
  text-decoration: underline;
   text-decoration-color: white;
  text-decoration-line: underline;
-  text-decoration-style: wavy;
+  
 }
 h1 {
  color: blue;
  font-size: 100;
  font-family: 'Nabla', system-ui;
+ text-shadow: 2px 2px;
  
  
  
