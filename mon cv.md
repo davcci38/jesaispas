@@ -10,7 +10,7 @@ in_menu: true
   <body>
     <h1>Exemple PDF</h1>
     <p>Ouvrir un fichier PDF
-      <a href="/">exemple</a>.
+      <a href=Users/wamp/Downloads/Black%20Modern%20Professional%20Resume%20(1).pdf"/">exemple</a>.
     </p>
   </body>
 </html> 
