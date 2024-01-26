@@ -3,7 +3,10 @@
 :root {
     --couleur-primaire : linear-gradient(-45deg, blue 10%, blue 25%, black 51%, #ff357f 100%);
 font-family: 'Black Ops One', system-ui;
-img { max-width:100%; height:auto; } 
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   }
 p {
 color: white;
@@ -49,4 +52,4 @@ body {
     background-position: 0% 50%;
   }
 }
-img { max-width:100%; height:auto; } 
+
