@@ -20,43 +20,6 @@ h1 {
  color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
  }
-
-body {
-
-  width: 100%;
-  height: 100vh;
-  display: block;
-  align-items: center;
-  justify-content: center;
-  background-size: 300% 300%;
-  background-image: linear-gradient(-45deg, blue 10%, blue 25%, black 51%, #ff357f 100%);
-  -webkit-animation: AnimateBG 20s ease infinite;
-          animation: AnimateBG 20s ease infinite;
-}
-
-@-webkit-keyframes AnimateBG {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-@keyframes AnimateBG {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
 :root {
   --screenSize: 4vmin;
   --borderSize: 2vmin;
@@ -419,5 +382,43 @@ input::after {
   }
   100% {
     box-shadow: 4vmin 0 20vmin rgba(255, 255, 255, 0.3) inset;
+  }
+}
+
+
+body {
+
+  width: 100%;
+  height: 100vh;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  background-size: 300% 300%;
+  background-image: linear-gradient(-45deg, blue 10%, blue 25%, black 51%, #ff357f 100%);
+  -webkit-animation: AnimateBG 20s ease infinite;
+          animation: AnimateBG 20s ease infinite;
+}
+
+@-webkit-keyframes AnimateBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes AnimateBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
