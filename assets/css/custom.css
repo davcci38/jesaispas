@@ -2,7 +2,7 @@
     --couleur-primaire : #07357d;
 }
 p {
-  background: linear-gradient(blue, azzure, noir);
+  background: linear-gradient(blue,indigo,violet);
 }
 h1 {
  color: blue;
