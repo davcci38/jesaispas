@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Honk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
 :root {
     --couleur-primaire : linear-gradient(-45deg, blue 10%, blue 25%, black 51%, #ff357f 100%);
 font-family: 'Black Ops One', system-ui;
@@ -11,7 +12,8 @@ color: white;
 h1 {
  color: blue;
  font-size: 100;
- font-family: 'Honk', system-ui;
+ font-family: 'Nabla', system-ui;
+
 }
 body {
 
