@@ -15,6 +15,7 @@ h1 {
  font-family: 'Nabla', system-ui;
  transform: rotateX(150deg);
  transform-style: preserve-3d;
+ perspective: 100px;
  
  
 
