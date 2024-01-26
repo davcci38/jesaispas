@@ -49,17 +49,3 @@ body {
   100% {
     background-position: 0% 50%;
   }
-
-footer {
-color: black;
-}
-header {
-  height: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.item {
-  width: 10em;
-}
