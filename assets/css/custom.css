@@ -2,12 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Honk&display=swap');
 :root {
     --couleur-primaire : #07357d;
-}
-p {
-  display: flex;
+    display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
+}
+p {
+
+ 
+color: white;
   font-family: 'Black Ops One', system-ui;
 }
 h1 {
