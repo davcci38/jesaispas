@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Honk&display=swap');
 :root {
-   color: linear-gradient(-45deg, blue 10%, blue 25%, black 51%, #ff357f 100%);
+ 
 font-family: 'Black Ops One', system-ui;
   }
 p {
