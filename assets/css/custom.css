@@ -13,7 +13,8 @@ h1 {
  color: blue;
  font-size: 100;
  font-family: 'Nabla', system-ui;
- transform-style: rotateX(150deg);
+ transform: rotateX(150deg);
+ transform-style: preserve-3d;
  
  
 
