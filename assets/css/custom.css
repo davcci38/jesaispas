@@ -8,6 +8,8 @@ font-family: 'Black Ops One', system-ui;
 p {
 color: white;
   font-family: 'Black Ops One', system-ui;
+ text-decoration: underline;
+  text-decoration-color: white;
 }
 h1 {
  color: blue;
