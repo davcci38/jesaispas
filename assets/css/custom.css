@@ -8,22 +8,15 @@ font-family: 'Black Ops One', system-ui;
 p {
 color: white;
   font-family: 'Black Ops One', system-ui;
+ img { max-width: 100%; height: auto; } @media { img { width: auto; /* for ie 8 */ } } 
 }
 h1 {
  color: blue;
  font-size: 100;
  font-family: 'Honk', system-ui;
 }
-h3 {
-  height: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 
-.item {
-  width: 10em;
-}
+
 body {
   width: 100%;
   height: 100vh;
