@@ -4,7 +4,9 @@
     --couleur-primaire : #07357d;
 }
 p {
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: white;
   font-family: 'Black Ops One', system-ui;
 }
