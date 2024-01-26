@@ -9,7 +9,7 @@ p {
 h1 {
  color: blue;
  font-size: 100;
- font-family: Honk;
+ font-family: Honk, regular400;
 }
 body { 
  font-family: bebas neue;
