@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Mon parcours professionnel 
 
-Bonjour je vous présente mon site pour découvrir mon parcours professionnel ,mes ambition,et mes projets.
+Je vous présente mon site pour découvrir mon parcours professionnel ,mes ambition,et mes projets.
 
 <img src="images/OIG4.1cdv8b8.jpg " width="80%">
 
