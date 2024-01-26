@@ -49,9 +49,11 @@ body {
   100% {
     background-position: 0% 50%;
   }
+
+footer {
+color: black;
 }
- img { max-width: 100%; height: auto; } @media { img { width: auto; /* for ie 8 */ } } 
-.container {
+header {
   height: 200px;
   display: flex;
   align-items: center;
@@ -61,7 +63,3 @@ body {
 .item {
   width: 10em;
 }
-footer {
-color: black;
-}
-
