@@ -20,11 +20,11 @@ h1 {
  color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 .rotation3d {
-  background: #eaeaed;
+  h1: #eaeaed;
   float: left;
 }
 .box {
-  background: #e4087e;
+  h1: #e4087e;
   height: 120px;
   line-height: 120px;
   text-align: center;
