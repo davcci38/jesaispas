@@ -3,13 +3,13 @@
 }
 p {
   background: linear-gradient(blue,indigo,black);
- color: white;
-
+  color: white;
 }
 h1 {
  color: blue;
  font-size: 100;
+ font-family: honk;
 }
 body { 
- font-family :honk, sixtyfour;
+ font-family: bebas neue;
 }
