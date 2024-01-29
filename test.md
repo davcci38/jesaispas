@@ -4,7 +4,8 @@ order: 5
 in_menu: true
 ---
 <h1>carousel</h1>
-<h1 class=test> 
+<h1 class=test>
+<html> 
 <div scene style="--size: 60vmin">
   <div rotation animate="true">
     <div center-z>
