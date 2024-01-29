@@ -20,7 +20,9 @@ h1 {
  color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px 
  white, 0 0 5px darkblue;
-   animation: 3s infinite alternate slidein;
+   animation-name: fadeInOut, moveLeft300px, bounce;
+animation-duration: 2.5s, 5s;
+animation-iteration-count: 2, 1;
 }
  
 
