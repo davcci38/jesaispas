@@ -69,9 +69,7 @@ body {
   }
   100% {
     background-position: 0% 50%;
-
-.multi-repeating-linear {
-  background: repeating-linear-gradient(
+    background: repeating-linear-gradient(
       190deg,
       rgba(255, 0, 0, 0.5) 40px,
       rgba(255, 153, 0, 0.5) 80px,
