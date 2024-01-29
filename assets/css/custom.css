@@ -71,7 +71,7 @@ body {
   }
   100% {
     background-position: 0% 50%;
-:test {
+.test {
   --screenSize: 4vmin;
   --borderSize: 2vmin;
   --primary: slategray;
