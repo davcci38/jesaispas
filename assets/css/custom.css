@@ -21,9 +21,8 @@ h1 {
  white, 0 0 5px darkblue;
  animation-duration: 3s;
  animation-name: slidein;
-animation-duration: 3s;
-  animation-name: slidein;
-  animation-iteration-count: infinite;
+ 
+ animation-iteration-count: infinite;
 }
 
 body {
