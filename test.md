@@ -6,108 +6,99 @@ in_menu: true
 <h1>carousel</h1>
 <h1 class=test>
 
-<html>
-- let sides = '<div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div>';
-.scene
-	.content
-		.water.one
-		.water.two
-		.water.three
-		.water.four
-		.water.five
-		.water.six
-		.water.fall
-		.water.foam
-			div
-			div
-		
-		.cuboid.brick-1 !{sides}
-		.cuboid.brick-2 !{sides}
-		.cuboid.brick-3 !{sides}
-		.cuboid.brick-4 !{sides}
-		.cuboid.brick-5 !{sides}
-		.cuboid.brick-6 !{sides}
-		.cuboid.brick-7 !{sides}
-		.cuboid.brick-8 !{sides}
-		.cuboid.brick-9 !{sides}
-		.cuboid.brick-10 !{sides}
-		.cuboid.brick-11 !{sides}
-		.cuboid.brick-12 !{sides}
-		.cuboid.brick-13 !{sides}
-		.cuboid.brick-14 !{sides}
-		.cuboid.brick-15 !{sides}
-		
-		.cuboid.col-1 !{sides}
-		.cuboid.col-2 !{sides}
-		.cuboid.col-3 !{sides}
-		.cuboid.col-4 !{sides}
-		
-		.cuboid.tower-1 !{sides}
-		.cuboid.tower-2 !{sides}
-		.cuboid.tower-3 !{sides}
-		.cuboid.tower-4 !{sides}
-		.cuboid.tower-5 !{sides}
-		.cuboid.tower-6 !{sides}
-		.cuboid.tower-7 !{sides}
-		.cuboid.tower-8 !{sides}
-		
-		.cuboid.roof-1 !{sides}
-		.cuboid.roof-2 !{sides}
-			
-		.shape.one
-			- for (var c=0; c<4; c++)
-				.cuboid !{sides}
-		.shape.two
-			- for (var c=0; c<4; c++)
-				.cuboid !{sides}
-				
-		.fence
-			- for (var s=0; s<4; s++)
-				.side
-		
-		.wheel
-			- for (var c=0; c<8; c++)
-				.cuboid !{sides}
-			.cuboid.axis !{sides}
-		.cuboid.wheel-door !{sides}
-
-		.cuboid.house !{sides}
-		.cuboid.house-roof !{sides}
-		.cuboid.house-step !{sides}
-		.cuboid.house-step.two !{sides}
-		.cuboid.house-step.three !{sides}
-		.cuboid.house-door.one !{sides}
-		.cuboid.house-door.two !{sides}
-		.cuboid.house-window !{sides}
-		.cuboid.house-window.two !{sides}
-		.cuboid.house-window.three !{sides}
-		.cuboid.house-pulley !{sides}
-		.cuboid.house-chimney !{sides}
-		.cuboid.house-chimney.base !{sides}
-		.cuboid.flour-sack !{sides}
-		.cuboid.flour-sack.two !{sides}
-		.cuboid.flour-sack.three !{sides}
-		.cuboid.flour-sack.four !{sides}
-		.cuboid.flour-sack.five !{sides}
-
-		.trails
-		.cuboid.ground !{sides}
-		
-		.cuboid.seat !{sides}
-		.cuboid.seat.back !{sides}
-		
-		.cuboid.sculpture.base !{sides}
-		.cuboid.sculpture.one.metal !{sides}
-		.cuboid.sculpture.two.metal !{sides}
-		.cuboid.sculpture.three.metal !{sides}
-		.cuboid.sculpture.four.metal !{sides}
-		
-		.flowers
-			- for (var d=0; d<15; d++)
-				div
-					span
-		
-		.vegetables
-			- for (var d=0; d<4; d++)
-				div
-</html> 
+html {
+	--c1: #d6d6d6;
+	--c2: #8f8f8f;
+	--c3: #353535;
+	--c4: #161616;
+	height: 100vh;
+	background: 		
+		/*corners bot*/ conic-gradient(
+			from 117deg at calc(50% + 128px) calc(50% + 179px),
+			var(--c4) 72deg,
+			#fff0 0 100%
+		),
+		conic-gradient(
+			from 117deg at calc(50% + 15px) calc(50% + 230px),
+			var(--c4) 72deg,
+			#fff0 0 100%
+		),
+		conic-gradient(
+			from 191deg at calc(50% - 107px) calc(50% + 181px),
+			var(--c4) 50deg,
+			#fff0 0 100%
+		),
+		conic-gradient(
+			from 194deg at calc(50% - 207px) calc(50% + 140px),
+			var(--c4) 55deg,
+			#fff0 0 100%
+		),
+		/*corners top*/
+			conic-gradient(
+				from 9deg at calc(50% + 154px) calc(50% + 18px),
+				var(--c4) 90deg,
+				#fff0 0 100%
+			),
+		conic-gradient(
+			from 10deg at calc(50% + 72px) calc(50% - 95px),
+			var(--c4) 81deg,
+			#fff0 0 100%
+		),
+		conic-gradient(
+			from -45deg at calc(50% - 50px) calc(50% - 105px),
+			var(--c4) 56deg,
+			#fff0 0 100%
+		),
+		conic-gradient(
+			from -46deg at calc(50% - 198px) calc(50% + 100px),
+			var(--c4) 59deg,
+			#fff0 0 100%
+		),
+		/*bg*/
+			conic-gradient(
+				from 145deg at 50% calc(50% - 240px),
+				#fff0 70deg,
+				var(--c4) 0 100%
+			),
+		linear-gradient(-25deg, var(--c4) calc(50% - 240px), #fff0 0),
+		linear-gradient(25deg, var(--c4) calc(50% - 240px), #fff0 0),
+		/*grain*/
+			repeating-conic-gradient(
+				#0004 0%,
+				transparent 0.00003%,
+				transparent 0.0005%,
+				transparent 0.00095%
+			),
+		repeating-conic-gradient(
+			#fff2 0%,
+			transparent 0.00005%,
+			transparent 0.00015%,
+			transparent 0.0009%
+		),
+		/*holes*/
+			linear-gradient(
+				99deg,
+				#fff0 calc(50% + 155px),
+				var(--c2) calc(50% + 156px) calc(50% + 185px),
+				#fff0 calc(50% + 186px)
+			),
+		linear-gradient(
+			100deg,
+			#fff0 calc(50% + 55px),
+			var(--c2) calc(50% + 56px) calc(50% + 85px),
+			#fff0 calc(50% + 86px)
+		),
+		linear-gradient(
+			101deg,
+			#fff0 calc(50% - 100px),
+			var(--c2) calc(50% - 99px) calc(50% - 70px),
+			#fff0 calc(50% - 69px)
+		),
+		linear-gradient(
+			103deg,
+			#fff0 calc(50% - 200px),
+			var(--c2) calc(50% - 199px) calc(50% - 170px),
+			#fff0 calc(50% - 169px)
+		),
+		/*faces*/ linear-gradient(90deg, var(--c1) 50%, var(--c3) 50%);
+} 
