@@ -5,7 +5,7 @@ in_menu: true
 ---
 <h1>carousel</h1>
 <h1 class=test>
-
+<html/>
 - let sides = '<div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div><div class="side"></div>';
 .scene
 	.content
