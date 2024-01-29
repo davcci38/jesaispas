@@ -76,31 +76,3 @@ body {
   }
   100% {
     background-position: 0% 50%;
-
-body
-  font-family: Numans
-
-#tips, h1
-  color: #444
-  user-select: none
-  margin: 5px
-    
-#transform
-  width: 300px
-  height: 300px
-  background: #DD312F
-  border: 5px solid #444
-  color: #444
-  margin: 50px auto
-  cursor: move
-    
-#css
-  font-family: Rokkitt
-  background: #002A38
-  border: 1px solid #444
-  color: #B98D00
-  padding: 10px
-  
-  &:before
-    content: 'transform: '
-    color: #D33683
