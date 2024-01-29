@@ -22,6 +22,11 @@ h1 {
  white, 0 0 5px darkblue;
   animation-duration: 3s;
   animation-name: slidein;
+75% {
+  font-size: 300%;
+  margin-left: 25%;
+  width: 150%;
+}
 }
 
 @keyframes slidein {
