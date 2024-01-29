@@ -21,7 +21,8 @@ h1 {
  color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px 
  white, 0 0 5px darkblue;
-animation: 3s infinite alternate slidein;
+ animation-duration: 3s;
+  animation-name: slidein;
   }
 body {
   width: 100%;
